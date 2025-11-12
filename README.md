@@ -1,5 +1,12 @@
 ﻿# Landing Page — Nicho Alimentos
 
+[![Demo](https://img.shields.io/badge/demo-online-success?logo=netlify)](https://nichoalimentos.netlify.app/)
+
+| Tema | Stack | Demo |
+|---|---|---|
+| Alimentos | HTML, Tailwind CSS, JS | https://nichoalimentos.netlify.app/ |
+
+
 ![Preview](docs/preview.png)
 
 
